@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "nano-blink"
+		},
+		{
+			"name": "nano-test",
+			"path": "nano-test"
+		}
+	],
+	"settings": {}
+}
